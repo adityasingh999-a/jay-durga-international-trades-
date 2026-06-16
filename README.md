@@ -150,7 +150,7 @@ Replace these placeholders with actual screenshots.
 ## Homepage
 
 ```md
-/assets/screenshots/homepage.png
+C:\Users\adity\OneDrive\Pictures\Screenshots
 ```
 
 ## Brand Showcase
