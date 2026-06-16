@@ -143,35 +143,6 @@ The website combines elegant design, responsive layouts, smooth animations, and 
 
 ---
 
-# 📸 Screenshots
-
-Replace these placeholders with actual screenshots.
-
-## Homepage
-
-```md
-C:\Users\adity\OneDrive\Pictures\Screenshots
-```
-
-## Brand Showcase
-
-```md
-/ assets/screenshots/brands.png
-```
-
-## About Section
-
-```md
-/ assets/screenshots/about.png
-```
-
-## Contact Section
-
-```md
-/ assets/screenshots/contact.png
-```
-
----
 
 # 🌐 Live Demo
 
